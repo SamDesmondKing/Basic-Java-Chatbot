@@ -1,0 +1,5 @@
+Basic chatbot written in monolithic java for a university project.
+
+The bot asks the user to specify how many topics they'd like to discuss, name the topics, and will then respond based on whether the user's input contains that topic (case sensitive). The bot will also express surprise when it detects an exclamation mark in the user input. 
+
+Not exactly designed to pass the turing test, but a good programming exercise for learning basic java.
